@@ -1,5 +1,5 @@
 # SELFMUTE
-SOURCEMOD SELFMUTE 2024 REWRITE of : https://forums.alliedmods.net/showthread.php?t=302320 
+SOURCEMOD SELFMUTE 2024 REWRITE of : https://forums.alliedmods.net/showthread.php?t=302320
 Compiled under last version of Sourcemod v1.11 
 Fixes :
 
