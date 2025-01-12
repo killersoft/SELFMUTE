@@ -10,8 +10,6 @@ Key Fixes & Notes:
 
     GetFilterName (instead of getFilterName) now writes to a caller-provided buffer using strcopy and FormatEx. This avoids returning a local char[] pointer which is invalid after the function returns.
     String assignments:
-        strcopy(textNames, sizeof(textNames), ""); for clearing.
-        strcopy(temp, sizeof(temp), "Some string"); where needed.
-   
+    e.g    strcopy(textNames, sizeof(textNames), ""); for clearing.
     Clarified parentheses in certain if checks.
     Minor improvements to sorting logic, bubble sort pass variables, etc.
